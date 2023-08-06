@@ -1,0 +1,15 @@
+/Users/kawanna/Projects/IQuittable/IQuittable/bin/Debug/net7.0/IQuittable
+/Users/kawanna/Projects/IQuittable/IQuittable/bin/Debug/net7.0/IQuittable.deps.json
+/Users/kawanna/Projects/IQuittable/IQuittable/bin/Debug/net7.0/IQuittable.runtimeconfig.json
+/Users/kawanna/Projects/IQuittable/IQuittable/bin/Debug/net7.0/IQuittable.dll
+/Users/kawanna/Projects/IQuittable/IQuittable/bin/Debug/net7.0/IQuittable.pdb
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.csproj.AssemblyReference.cache
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.AssemblyInfoInputs.cache
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.AssemblyInfo.cs
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.csproj.CoreCompileInputs.cache
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.dll
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/refint/IQuittable.dll
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.pdb
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/IQuittable.genruntimeconfig.cache
+/Users/kawanna/Projects/IQuittable/IQuittable/obj/Debug/net7.0/ref/IQuittable.dll
